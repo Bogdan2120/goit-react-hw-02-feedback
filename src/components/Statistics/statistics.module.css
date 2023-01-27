@@ -1,8 +1,10 @@
-.statisticsContainer {
-}
-
 .title {
   text-align: center;
+}
+
+.statistics {
+  list-style: none;
+  padding: 0;
 }
 
 .statistic {
